@@ -4,7 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>Welcome to the Netlify</h1>
+      <h1>So sakam ke pram</h1>
+      <p>Uspesno hostirame</p>
     </div>
   );
 }
